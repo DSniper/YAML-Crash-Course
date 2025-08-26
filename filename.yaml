@@ -1,0 +1,21 @@
+topic: "Learing Yaml"
+extension: yaml
+otherExtensions:
+ - Yaml
+ - yml
+contact:
+ email: test@test.com
+ phone: 1234567890
+employees:
+ - name: ram
+   role: developer
+ - name: rose
+   role: manager
+bio: |
+    rose is a manager who is curios about
+    tech and loves learning new updates
+    and enjoys sharing them
+desc: >
+    rose is a manager who is curios about
+    tech and loves learning new updates
+    and enjoys sharing them
