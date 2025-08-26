@@ -26,7 +26,7 @@ public class YamlValidatorApplication {
     }
 
     public static void main(String[] args) {
-        String path = "D:\\Softwares\\YAML Crash Course\\Yaml Validator\\Yaml-Validator\\src\\main\\YAML Learning Files\\one.yaml";
+        String path = "D:\\Softwares\\YAML Crash Course\\YAML-Crash-Course\\Yaml-Validator\\src\\main\\YAML Learning Files\\one.yaml";
         if (isValidYAML(path)) {
             System.out.println(" The File is Valid YAML");
         } else {
